@@ -1,0 +1,8 @@
+section.section_hero .hero_heading h1 {
+  font-size: 80px
+  color:red;
+}
+.site-header {
+  position: fixed;
+  width: 100%
+}
