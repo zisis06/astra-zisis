@@ -9,3 +9,13 @@ section.section_hero .hero_heading h1 {
 .site-content {
   padding-top: 4.8rem;
 }
+.woocommerce .widget_shopping_cart .woocommerce-mini-cart__buttons a {
+    display: inline-block;
+    width: 100%;
+    margin-right: 5px;
+    text-align: center;
+}
+.woocommerce .widget_shopping_cart .woocommerce-mini-cart__buttons .checkout.wc-forward {
+    margin-left: 0px;
+    margin-right: 0;
+}
