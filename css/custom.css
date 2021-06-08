@@ -6,3 +6,6 @@ section.section_hero .hero_heading h1 {
   position: fixed;
   width: 100%
 }
+.site-content {
+  padding-top: 4.8rem;
+}
